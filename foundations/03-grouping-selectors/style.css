@@ -1,0 +1,14 @@
+.button-one {
+    color: rgb(232, 235, 238);
+    background-color: rgb(5, 5, 5);
+}
+
+.button-two {
+    background-color: rgb(218, 218, 21);
+}
+
+.button-one, .button-two {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+/* a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback */
